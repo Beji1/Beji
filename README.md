@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Fun fact.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TG8211&show_icons=true)]
-[![Blog Badge](https://img.shields.io/badge/tg-dev.glitch.me-FF4088?style=flat&labelColor=FF4088&logo=Hugo&logoColor=white&link=https://tg-dev.glitch.me/)](https://tg-dev.glitch.me/)
+[![Blog Badge](https://img.shields.io/badge/My Website-FF4088?style=flat&labelColor=FF4088&logo=Hugo&logoColor=white&link=https://tg-dev.glitch.me/)](https://tg-dev.glitch.me/)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TG8211.TG8211)
 ![](https://komarev.com/ghpvc/?username=TG8211&color=0366d6)
