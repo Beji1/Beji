@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on E-commerce.
 - 🤔 I’m looking for help with Unity.
 - 💬 Ask me about whatever you want.
-- 📫 How to reach me: Discord TG#8211 
+- 📫 How to reach me: Discord Beji#0035 
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: Fun fact.
 
