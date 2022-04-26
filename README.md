@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TG8211&show_icons=true)
 [![Blog Badge](https://img.shields.io/badge/Website-FF4088?style=flat&labelColor=FF4088&logo=&logoColor=white&link=https://tg-dev.glitch.me/)](https://tg-dev.glitch.me/)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TG8211.TG8211)
-![](https://komarev.com/ghpvc/?username=TG8211&color=FF4088)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Beji1.Beji1)
+![](https://komarev.com/ghpvc/?username=Beji1&color=FF4088)
