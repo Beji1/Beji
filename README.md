@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: bejidev27@gmail.com .
 - 😄 Pronouns: he / him
 
+<hr>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a>
