@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,svelte,figma,github,materialui,mongodb,nextjs,nodejs,remix,bootstrap,tailwind,discord,express,react,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,svelte,figma,github,materialui,mongodb,nextjs,nodejs,remix,bootstrap,tailwind,discord,express,react,vscode&theme=dark" />
   </a>
 </p>
 
