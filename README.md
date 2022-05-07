@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="https://github.com/Beji1">
+      
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Beji1&show_icons=true&theme=aura)
+  
   </a>
 </div>
