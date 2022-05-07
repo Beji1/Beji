@@ -1,7 +1,7 @@
 # Beji 😃
 
 - I'm an 18 years old who likes coding and gaming.
-- Working from home.
+- Portfolio/My Website: https://beji.cf .
 
 Here are some ideas to get you started:
 
