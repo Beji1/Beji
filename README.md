@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working from home.
-- 🌱 I’m currently learning C# and C++.
+- 🌱 I’m currently learning Rust programming language.
 - 👯 I’m looking to collaborate on Projects.
 - 💬 Ask me about whatever you want.
 - 📫 How to reach me: bejidev27@gmail.com .
