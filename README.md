@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h3 align="center"><span style="color:pink">Skills</span> and <span style="color:pink;">Tools</span></h3>
+<h3 align="center"><span style="color:pink">Skills</span> and <span style="color:pink;">Tools</span>
+</h3>
 <p align="center">
-  <a>
+  <a href="https://github.com/Beji1">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,svelte,figma,github,materialui,mongodb,nextjs,nodejs,remix,bootstrap,tailwind,discord,express,react,vscode&theme=dark" />
   </a>
-</p>
+    </p>
 
 <div align="center">
   
