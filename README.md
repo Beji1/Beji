@@ -18,5 +18,6 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,svelte,figma,github,materialui,mongodb,nextjs,nodejs,remix,bootstrap,tailwind,discord,express,react,vscode&theme=dark" />
   </a>
 </p>
-
+<center>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Beji1&show_icons=true&theme=aura)
+</center
