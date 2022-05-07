@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<center>
+<div align="center">
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Beji1&show_icons=true&theme=aura)
 
-</center>
+</div>
