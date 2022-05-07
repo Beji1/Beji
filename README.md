@@ -19,4 +19,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Beji1&show_icons=true&theme=UWI)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Beji1&show_icons=true&theme=aura)
