@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center" style="color: #c33357" align="left">Skills <span style="color: white">and</span> Tools</h3>
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,svelte,figma,github,materialui,mongodb,nextjs,nodejs,remix,bootstrap,tailwind,discord,express,react,vscode&theme=dark" />
