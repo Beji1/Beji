@@ -1,4 +1,4 @@
-# Beji 😃
+<h1 align="center"> Beji 😃 </h1>
 
 - I'm an 18 years old who likes coding and gaming.
 - Portfolio/My Website: https://beji.cf .
