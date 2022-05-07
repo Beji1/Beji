@@ -12,4 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: bejidev27@gmail.com .
 - 😄 Pronouns: he / him
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,svelte,figma,github,materialui,mongodb,nextjs,nodejs,remix,,bootstrap,tailwind,discord,express,react,vscode" />
+  </a>
+</p>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Beji1&show_icons=true)
