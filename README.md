@@ -1,6 +1,6 @@
 <h1 align="center"> Beji 😃 </h1>
 
-- Stopping Front-End career, starting app's specialise .
+- Stopping Front-End career, starting app's specialize .
 - I'm an 18 years old who likes coding and gaming.
 - Portfolio/My Website: https://beji.cf .
 
