@@ -1,6 +1,6 @@
 <h1 align="center"> Beji 😃 </h1>
 
-- Proud of where I got as a web designer, but now... it's time to be an app designer, I'll be missing these old days :(, Thanks to everyone supported me through my whole career, special thanks goes to @it-andrews , For inspiring me and supporting me .
+- Proud of where I got as a web designer, but now... it's time to be an app designer, I'll be missing these old days :(, Thanks to everyone supported me through my whole career . .
 - I'm an 18 years old who likes coding and gaming.
 - Portfolio/My Website: https://beji.cf .
 
