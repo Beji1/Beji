@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <div align="center">
     <a href="https://github.com/Beji1">
       
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Beji1&show_icons=true&theme=aura)
-  
-  </a>
-</div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beji1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=aura">
+ </a>
+    <a href="https://github.com/Beji1">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beji1&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=aura">
+</a>
+        </div>
