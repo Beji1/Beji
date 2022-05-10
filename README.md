@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Rust programming language.
 - 👯 I’m looking to collaborate on Projects.
 - 💬 Ask me about whatever you want.
-- 📫 How to reach me: <a href="mailto:bejidev27@gmail.com">bejidev27@gmail.com</a> .
+- 📫 How to reach me: <a target="_blank" href="mailto:bejidev27@gmail.com">bejidev27@gmail.com</a> .
 
 <hr>
 
