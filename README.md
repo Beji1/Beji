@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<div align="center">
+<div align="center" style="display: flex">
     <a href="https://github.com/Beji1">
       
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beji1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=aura">
