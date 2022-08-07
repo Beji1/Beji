@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 
 |  Tool  |  Link  |
 |---|---|
-|  Visual Studio Code  | [Click Here](https://code.visualstudio.com)  |
-| Vercel  |  [Click Here](https://vercel.com)  |
-| Fontawesome  |  [Click Here](https://fontawesome.com)  |
+|  Visual Studio Code  | [code.visualstudio.com](https://code.visualstudio.com)  |
+| Atom | [atom.io](https://atom.io) |
+| Vercel  |  [vercel.com](https://vercel.com)  |
+| Fontawesome  |  [fontawesome.com](https://fontawesome.com)  |
 
 
 <hr>
